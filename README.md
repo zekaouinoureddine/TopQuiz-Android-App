@@ -32,7 +32,7 @@ Before we get to dive into our amazing project, let's talk about it a little bit
 
 ---
 ### Conclusion
-We have discovered the fundamentals of Android programming, namely how Android Studio works, building a graphical interface, plugging widgets into code, MVC, application logic, preferences and cycle life of an activity. Wow! Just with this knowledge, I'm so confortable, and I will be back with somthing OUT OF THE BOW soon.
+We have discovered the fundamentals of Android programming, namely how Android Studio works, building a graphical interface, plugging widgets into code, MVC, application logic, preferences and cycle life of an activity. Wow! Just with this knowledge, I'm so confortable, and I will be back with somthing OUT OF THE BOX soon.
 
 ---
 ### References
