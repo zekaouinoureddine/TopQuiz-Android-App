@@ -13,7 +13,7 @@
 
 ---
 ### App Description
-Before we get to dive into our amazing project, let's talk about it a little bit. So, this repo is for explaining to you our project as part of the course [develop your first Android application](https://openclassrooms.com/fr/courses/4517166-developpez-votre-premiere-application-android). The project consists of creating an Application that we call TopQuiz. It is a Game app, on which the user takes a general knowledge skill test and at the end, the user can view his score. On the other hand, he can take the test again if he wants, in this case, we will remind him of his last score and motivate him to do better. To do so, we will use the software design pattern **MVC**.
+Before we get to dive into our amazing project, let's talk about it a little bit. So, this repo is for explaining to you our project as part of the course [develop your first Android application](https://openclassrooms.com/fr/courses/4517166-developpez-votre-premiere-application-android) teaching by the amazing **Florian Ponroy**. however, The project aims of creating an Application that we call TopQuiz. It is a Game app, on which the user takes a general knowledge skill test and at the end, the user can view his score. On the other hand, he can take the test again if he wants, in this case, we will remind him of his last score and motivate him to do better. To do so, we will use the software design pattern **MVC**.
 
 ---
 ### Technologies
