@@ -83,7 +83,7 @@ public class GameActivity extends AppCompatActivity implements View.OnClickListe
         this.displayQuestion(mCurrentQuestion);
     }
 
-    // For fixing rotation bug by saving the current state.
+    // For fixing ROTATION bug by saving the current state.
     @Override
     protected void onSaveInstanceState(Bundle outState) {
         outState.putInt(BUNDLE_STATE_SCORE, mScore);
