@@ -1,5 +1,5 @@
 # TopQuiz-Android-App
-Here we are going to present our TopQuiz Android app built using Android studio, java and the famous **MVC** software design pattern. To do this, we will follow table of contents showen below.
+Here we are going to present our TopQuiz Android app built using Android studio, java, and the famous **MVC** software design pattern. To do this, we will follow table of contents showen below.
 
 ---
 
