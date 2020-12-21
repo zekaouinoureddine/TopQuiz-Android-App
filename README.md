@@ -3,7 +3,7 @@ Here we are going to present our TopQuiz Android app built using Android studio,
 
 ---
 
-## Tbale Of Contents
+## Table Of Contents
 - [App Description](#app-description)
 - [Technologies](#technologies)
 - [Implementation](#Implementation)
