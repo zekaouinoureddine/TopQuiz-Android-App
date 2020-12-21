@@ -28,13 +28,13 @@ Before we get to dive into our amazing project, let's talk about it a little bit
 ---
 ### Implementation
 
-##### 1 - [Install Android Studio](https://developer.android.com/studio) in your computer
-##### 2 - Clone this repository on your local computer
+- ##### [Install Android Studio](https://developer.android.com/studio) in your computer
+- ##### Clone this repository on your local computer
 
 ```
 git clone https://github.com/zekaouinoureddine/TopQuiz-Android-App.git
 ```
-##### 3 - Then run the app
+- ##### Open the project on Android Studio and run the app.
 ---
 ### Demo
 After running the application on your machine, you should normally be able to play the Quiz Game as shown in the demo below. 
