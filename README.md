@@ -41,7 +41,7 @@ After running the application on your machine, you should normally be able to pl
 
 ---
 ### Conclusion
-We have discovered the fundamentals of Android programming, namely how Android Studio works, building a graphical interface, plugging widgets into code, MVC, application logic, preferences and cycle life of an activity. Wow! Just with this knowledge, I'm so confortable, and I will be back with somthing OUT OF THE BOX soon.
+We have discovered the fundamentals of Android programming, namely how Android Studio works, building a graphical interface, plugging widgets into code, MVC, application logic, preferences and cycle life of an activity. Wow! Just with this knowledge, I'm so confortable, and I will be back with somthing **OUT OF THE BOX** soon.
 
 ---
 ### References
