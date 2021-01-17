@@ -18,9 +18,9 @@ Before we get to dive into our amazing project, let's talk about it a little bit
 
 ---
 ### Technologies
-[×] Android Studio
-[×] Java
-[×] MVC Architecture
+- Android Studio
+- Java
+- MVC Architecture
 
 ---
 ### Conception
